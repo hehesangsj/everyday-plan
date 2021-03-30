@@ -15,12 +15,7 @@
 
 - [ ] 26：[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)（双指针） 
 - [ ] 122：[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)（贪心）
-
-
-
-## 3. analog everyday
-
-
+- [ ] 189：[旋转数组](https://leetcode-cn.com/problems/rotate-array/)（数组翻转）
 
 
 
