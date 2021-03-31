@@ -21,6 +21,8 @@
 - [ ] 136：[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)（巧解：异或）
 - [x] 66：[ 加一](https://leetcode-cn.com/problems/plus-one/)（简单题）
 - [ ] 283：[移动零](https://leetcode-cn.com/problems/move-zeroes/)（双指针）
+- [x] 1：[两数之和](https://leetcode-cn.com/problems/two-sum/)（哈希表）
+- [ ] 
 
 
 
