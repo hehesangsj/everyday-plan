@@ -22,9 +22,16 @@
 - [x] 66：[ 加一](https://leetcode-cn.com/problems/plus-one/)（简单题）
 - [ ] 283：[移动零](https://leetcode-cn.com/problems/move-zeroes/)（双指针）
 - [x] 1：[两数之和](https://leetcode-cn.com/problems/two-sum/)（哈希表）
-- [ ] 
+- [ ] 36：[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)（遍历存储状态）
+- [x] 48：[旋转图像](https://leetcode-cn.com/problems/rotate-image/)（矩阵操作）
 
+### 2.2 字符串
 
+- [ ] 344：[反转字符串](https://leetcode-cn.com/problems/reverse-string/)（双指针）
+
+### 2.3 每日一题
+
+- [ ] 4.1：1006（[笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/)）（栈）
 
 
 
