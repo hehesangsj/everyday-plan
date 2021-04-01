@@ -3,11 +3,13 @@
 
 ## 1. paper everyday
 
+### 1.2 2017
+
+* Yan, C., Xie, H., Yang, D., Yin, J., Zhang, Y., & Dai, Q. (2017). Supervised **hash coding** with deep neural network for environment perception of intelligent vehicles. *IEEE transactions on intelligent transportation systems*, *19*(1), 284-295.（CNN用来做图像的**哈希编码**）
 
 
 
-
-## 2. leetcode everyday
+## 2. leetcode everydayb
 
 说明：程序并非完整程序，是对应于leetcode智能模式下的解答，搜索对应题号即可
 
