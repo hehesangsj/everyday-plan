@@ -30,10 +30,14 @@
 ### 2.2 字符串
 
 - [ ] 344：[反转字符串](https://leetcode-cn.com/problems/reverse-string/)（双指针）
+- [ ] 387：[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)（哈希表）
+- [ ] 7：[整数反转](https://leetcode-cn.com/problems/reverse-integer/)（栈）
+- [ ] 242：[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)（哈希表）
 
 ### 2.3 每日一题
 
 - [ ] 4.1：1006（[笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/)）（栈）
+- [ ] 4.2：面试17.21（[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)）（双指针）
 
 
 
