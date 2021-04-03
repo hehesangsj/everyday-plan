@@ -33,11 +33,15 @@
 - [ ] 387：[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)（哈希表）
 - [ ] 7：[整数反转](https://leetcode-cn.com/problems/reverse-integer/)（栈）
 - [ ] 242：[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)（哈希表）
+- [ ] 125：[ 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)（简单）
+- [ ] 8：[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)（有限状态机）
+- [ ] 28：[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)（哈希表）
 
 ### 2.3 每日一题
 
 - [ ] 4.1：1006（[笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/)）（栈）
 - [ ] 4.2：面试17.21（[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)）（双指针）
+- [ ] 4.3：1143（[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)）（动态规划）
 
 
 
