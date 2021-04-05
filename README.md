@@ -36,12 +36,27 @@
 - [ ] 125：[ 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)（简单）
 - [ ] 8：[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)（有限状态机）
 - [ ] 28：[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)（哈希表）
+- [ ] 38：[外观数列](https://leetcode-cn.com/problems/count-and-say/)（双指针+递归）
+- [ ] 14：[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)（遍历）
+
+### 2.3 链表
+
+- [ ] 237：[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)（脑筋急转弯）
+- [ ] 19：[删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)（快慢指针）
 
 ### 2.3 每日一题
 
 - [ ] 4.1：1006（[笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/)）（栈）
 - [ ] 4.2：面试17.21（[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)）（双指针）
 - [ ] 4.3：1143（[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)）（动态规划）
+- [ ] 4.4：781（[森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/)）（贪心）
+- [ ] 4.5：88（[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)）（双指针）
+
+### 2.4 周赛
+
+- [ ] 235周：5722（[截断句子](https://leetcode-cn.com/problems/truncate-sentence/)）（简单）
+- [ ] 235周：5723（[查找用户活跃分钟数](https://leetcode-cn.com/problems/finding-the-users-active-minutes/)）（哈希表）
+- [ ] 
 
 
 
