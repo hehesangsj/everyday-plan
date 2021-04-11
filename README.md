@@ -43,16 +43,31 @@
 
 - [ ] 237：[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)（脑筋急转弯）
 - [ ] 19：[删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)（快慢指针）
+- [ ] 206：[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)（递归）
+- [ ] 21：[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)（双指针）
+- [ ] 234：[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)（双指针）
+- [ ] 141：[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（快慢指针）
 
-### 2.3 每日一题
+### 2.4 树
+
+- [ ] 104：[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)（深度优先搜索）
+- [ ] 98：[ 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)（中序遍历）
+
+### 2.5 每日一题
 
 - [ ] 4.1：1006（[笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/)）（栈）
 - [ ] 4.2：面试17.21（[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)）（双指针）
 - [ ] 4.3：1143（[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)）（动态规划）
 - [ ] 4.4：781（[森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/)）（贪心）
 - [ ] 4.5：88（[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)）（双指针）
+- [ ] 4.6：80（[删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)）（快慢指针）
+- [ ] 4.7：81（[搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)）（二分查找）
+- [ ] 4.8：153（[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)）（二分法）
+- [ ] 4.9：154（[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)）（二分法）
+- [ ] 4.10：263（[丑数](https://leetcode-cn.com/problems/ugly-number/)）（简单）
+- [ ] 4.11：264（[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)）（动态规划）
 
-### 2.4 周赛
+### 2.6 周赛
 
 - [ ] 235周：5722（[截断句子](https://leetcode-cn.com/problems/truncate-sentence/)）（简单）
 - [ ] 235周：5723（[查找用户活跃分钟数](https://leetcode-cn.com/problems/finding-the-users-active-minutes/)）（哈希表）
