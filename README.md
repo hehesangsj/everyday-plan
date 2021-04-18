@@ -15,7 +15,7 @@
 
 ### 2.1 数组
 
-- [ ] 26：[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)（双指针） 
+- [x] 26：[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)（双指针） 
 - [ ] 122：[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)（贪心）
 - [ ] 189：[旋转数组](https://leetcode-cn.com/problems/rotate-array/)（数组翻转）
 - [ ] 217：[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)（哈希表）
@@ -52,6 +52,9 @@
 
 - [ ] 104：[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)（深度优先搜索）
 - [ ] 98：[ 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)（中序遍历）
+- [ ] 101：[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)（递归）
+- [ ] 102：[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)（BFS）
+- [ ] 108：[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)（递归）
 
 ### 2.5 每日一题
 
@@ -59,19 +62,26 @@
 - [ ] 4.2：面试17.21（[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)）（双指针）
 - [ ] 4.3：1143（[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)）（动态规划）
 - [ ] 4.4：781（[森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/)）（贪心）
-- [ ] 4.5：88（[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)）（双指针）
+- [x] 4.5：88（[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)）（双指针）
 - [ ] 4.6：80（[删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)）（快慢指针）
 - [ ] 4.7：81（[搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)）（二分查找）
 - [ ] 4.8：153（[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)）（二分法）
 - [ ] 4.9：154（[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)）（二分法）
 - [ ] 4.10：263（[丑数](https://leetcode-cn.com/problems/ugly-number/)）（简单）
 - [ ] 4.11：264（[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)）（动态规划）
+- [ ] 4.12：179（[最大数](https://leetcode-cn.com/problems/largest-number/)）（数学）
+- [ ] 4.13：783（[二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)）（中序遍历）
+- [ ] 4.14：208（[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)）（前缀树）
+- [ ] 4.15：213（[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)）（动态规划）
+- [ ] 4.17：220（[存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)）（滑动窗口+set）
+- [ ] 4.18：26（已做）
 
 ### 2.6 周赛
 
 - [ ] 235周：5722（[截断句子](https://leetcode-cn.com/problems/truncate-sentence/)）（简单）
 - [ ] 235周：5723（[查找用户活跃分钟数](https://leetcode-cn.com/problems/finding-the-users-active-minutes/)）（哈希表）
-- [ ] 
+- [ ] 237周：5734（[判断句子是否为全字母句](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/)）
+- [ ] 237周：5735（[雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)）
 
 
 
