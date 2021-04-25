@@ -56,7 +56,33 @@
 - [ ] 102：[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)（BFS）
 - [ ] 108：[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)（递归）
 
-### 2.5 每日一题
+### 2.5 排序搜索
+
+- [ ] 278：[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)（二分搜索）
+
+### 2.6 动态规划
+
+- [ ] 70：[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)（动态规划/快速幂）
+- [ ] 121：[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)（动态规划、贪心算法）
+- [ ] 53：[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)（动态规划）
+- [ ] 198：[打家劫舍](https://leetcode-cn.com/problems/house-robber/)（动态规划）
+
+### 2.7 设计
+
+- [ ] 384：[打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)（FY洗牌算法）
+- [ ] 155：[最小栈](https://leetcode-cn.com/problems/min-stack/)（栈）
+
+### 2.8 数学
+
+- [ ] 412：[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)（简单）
+- [ ] 204：[计数质数](https://leetcode-cn.com/problems/count-primes/)（线性筛）
+- [ ] 326：[3的幂](https://leetcode-cn.com/problems/power-of-three/)（简单）
+- [ ] 13：[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)（数学）
+- [ ] 191：[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)（位运算）
+- [ ] 461：[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)（位运算）
+- [ ] 190：[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)（位运算）
+
+### 2.9 每日一题
 
 - [ ] 4.1：1006（[笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial/)）（栈）
 - [ ] 4.2：面试17.21（[直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)）（双指针）
@@ -75,8 +101,15 @@
 - [ ] 4.15：213（[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)）（动态规划）
 - [ ] 4.17：220（[存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)）（滑动窗口+set）
 - [ ] 4.18：26（已做）
+- [ ] 4.19：27（[ 移除元素](https://leetcode-cn.com/problems/remove-element/)）（简单）
+- [ ] 4.20：28（[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)）（**KMP算法**）
+- [ ] 4.21：91（[解码方法](https://leetcode-cn.com/problems/decode-ways/)）（动态规划）
+- [ ] 4.22：363（[ 矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)）（有序集合）
+- [ ] 4.23：368：（[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)）（动态规划）
+- [ ] 4.24：377：（[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)）（动态规划）
+- [ ] 4.25：897：（[递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)）（中序遍历）
 
-### 2.6 周赛
+### 2.10 周赛
 
 - [ ] 235周：5722（[截断句子](https://leetcode-cn.com/problems/truncate-sentence/)）（简单）
 - [ ] 235周：5723（[查找用户活跃分钟数](https://leetcode-cn.com/problems/finding-the-users-active-minutes/)）（哈希表）
