@@ -26,6 +26,10 @@
 - [x] 1：[两数之和](https://leetcode-cn.com/problems/two-sum/)（哈希表）
 - [ ] 36：[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)（遍历存储状态）
 - [x] 48：[旋转图像](https://leetcode-cn.com/problems/rotate-image/)（矩阵操作）
+- [ ] 15：[三数之和](https://leetcode-cn.com/problems/3sum/)（双指针）
+- [ ] 73：[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)（数组）
+- [ ] 49：[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)（哈希表）
+- [ ] 3：[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)（滑动窗口）
 
 ### 2.2 字符串
 
@@ -38,6 +42,7 @@
 - [ ] 28：[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)（哈希表）
 - [ ] 38：[外观数列](https://leetcode-cn.com/problems/count-and-say/)（双指针+递归）
 - [ ] 14：[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)（遍历）
+- [ ] 20：[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)（栈）
 
 ### 2.3 链表
 
@@ -59,6 +64,9 @@
 ### 2.5 排序搜索
 
 - [ ] 278：[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)（二分搜索）
+- [ ] 268：[丢失的数字](https://leetcode-cn.com/problems/missing-number/)（二分）
+- [ ] 912：[排序数组](https://leetcode-cn.com/problems/sort-an-array/)（快速排序）
+- [ ] 剑指offer40：[最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)（快速排序）
 
 ### 2.6 动态规划
 
@@ -81,6 +89,7 @@
 - [ ] 191：[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)（位运算）
 - [ ] 461：[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)（位运算）
 - [ ] 190：[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)（位运算）
+- [ ] 118：[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)（简单）
 
 ### 2.9 每日一题
 
@@ -108,6 +117,13 @@
 - [ ] 4.23：368：（[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)）（动态规划）
 - [ ] 4.24：377：（[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)）（动态规划）
 - [ ] 4.25：897：（[递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)）（中序遍历）
+- [ ] 4.26：1011：（[在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)）（二分查找）
+- [ ] 4.27：938：（[二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)）（DFS）
+- [ ] 4.28：633：（[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)）（双指针）
+- [ ] 4.29：403：（[青蛙过河](https://leetcode-cn.com/problems/frog-jump/)）（动态规划）
+- [ ] 4.30：137：（[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)）（真值表）
+- [ ] 5.1：690：（[员工的重要性](https://leetcode-cn.com/problems/employee-importance/)）（哈希表、深度有限搜索）
+- [ ] 5.2：554：（[砖墙](https://leetcode-cn.com/problems/brick-wall/)）（哈希表）
 
 ### 2.10 周赛
 
